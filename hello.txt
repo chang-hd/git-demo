@@ -1,7 +1,7 @@
 hello git!
 hello git!
 hello git!
-hello git! hot-fix test1
+hello git! hot-fix test3
 hello git!
 hello git!
 hello git!
