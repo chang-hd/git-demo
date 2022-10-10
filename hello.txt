@@ -2,6 +2,7 @@ hello git! master test
 hello git!
 hello git!
 hello git! hot-fix test2
+hello git! hot-fix test3
 hello git!
 hello git!
 hello git!
